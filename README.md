@@ -1,6 +1,6 @@
 # Open Science e Open Access nelle Scienze (Umane, e non solo)
 
-**Chi:** Seminario tenuto da [Silvio Peroni](https://www.unibo.it/sitoweb/silvio.peroni/) per dottorandi del Dipartimento di Filologia Classica e Italianisica, e chiunque altro interessato (studenti, professori, tecnici, etc.) dell'Università di Bologna, fino a esaurimento posti (max. 85).
+**Chi:** Seminario tenuto da [Silvio Peroni](https://www.unibo.it/sitoweb/silvio.peroni/) per dottorandi del Dipartimento di Filologia Classica e Italianisica, e per chiunque altro interessato (studenti, professori, tecnici, etc.) dell'Università di Bologna, fino a esaurimento posti (max. 85).
 
 **Che cosa:** Il seminario è organizzato in due sessioni. Una teorica, dove si introdurranno i principi principali dell'Open Science e dell'Open Access, e una pratica, dove verranno usati alcuni degli strumenti a disposizione della comunità per una piccola ricerca effettuata usando i dettami introdotti nella prima sessione.
 
