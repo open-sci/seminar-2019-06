@@ -6,7 +6,7 @@
 
 **Quando:** 20 giugno 2019, dalle 9:00 alle 13:00.
 
-**Dove:** Dipartimento di Filologia Classica e Italianistica, Università di Bologna, via Zamboni 32, Bologna, Italia.
+**Dove:** Aula Affreschi, via Zamboni 34, Dipartimento di Filologia Classica e Italianistica, Università di Bologna, Bologna, Italia.
 
 **Perché:** Lo scopo del seminario è quello di introdurre e favorire la diffusione dei principi dell'Open Science e Open Access ai giovani ricercatori, evidenziandone i vantaggi per la ricerca accademica.
 
