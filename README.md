@@ -18,4 +18,8 @@ L'UNESCO [definisce](http://www.unesco.org/new/en/communication-and-information/
 
 In questo seminario verranno presentate le ragioni alla base del movimento di Open Science, con tutto quel che si porta appresso – l'accesso aperto (Open Access) alla conoscenza scientifica, i dati aperti (Open Data) usati in una determinata ricerca, e la didattica aperta (Open Education). Dopo aver fornito una trattazione teorica, verranno mostrati alcuni degli strumenti a disposizione, che verranno usati durante il seminario per produrre e pubblicare del materiale di analisi secondo i dettami dell'Open Science.
 
-L'iscrizione all'evento deve essere effettuata attraverso [EventBrite](https://www.eventbrite.com/e/open-science-e-open-access-nelle-scienze-umane-e-non-solo-tickets-61186977898), acquistando uno dei biglietti gratuiti a disposizione fino ad esaurimento. È prevista una lista di attesa nel caso in cui i biglietti a disposizione vengano esauriti.
+## Materiale
+
+**Slide:** Peroni, S. (2019, June). Open Science e Open Access nelle Scienze (Umane e non solo). Seminar presented at the Univeristy of Bologna, Bologna, Italy. Retrieved from https://doi.org/10.5281/zenodo.3251667
+
+**Dati prodotti:** Angiolini, A., Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Di Tella, A., … Torello, M. (2019). Riviste OA - UniBo (Version 1.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3251664
