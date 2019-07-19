@@ -20,6 +20,8 @@ In questo seminario verranno presentate le ragioni alla base del movimento di Op
 
 ## Materiale
 
-**Slide:** Peroni, S. (2019, June). Open Science e Open Access nelle Scienze (Umane e non solo). Seminar presented at the Univeristy of Bologna, Bologna, Italy. Retrieved from https://doi.org/10.5281/zenodo.3251667
+**Slide:** Peroni, S. (2019). Open Science e Open Access nelle Scienze (Umane e non solo). Seminar presented at the Univeristy of Bologna, Bologna, Italy. Zenodo. https://doi.org/10.5281/zenodo.3251667
 
-**Dati prodotti:** Angiolini, A., Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Di Tella, A., … Torello, M. (2019). Riviste OA - UniBo (Version 1.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3251664
+**Protocollo per la raccolta dei dati:** Barzaghi, S., Cavestri, D., Mangialardo, F., Peroni, S. (2019). Protocollo di Conformità di Riviste Scientifiche all'Open Access. Protocols.io. https://doi.org/10.17504/protocols.io.5aag2ae
+
+**Dati prodotti:** Angiolini, A., Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Di Tella, A., … Torello, M. (2019). Riviste OA - UniBo (Version 1.2). Zenodo. http://doi.org/10.5281/zenodo.3344507
