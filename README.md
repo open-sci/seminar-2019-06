@@ -26,4 +26,4 @@ In questo seminario verranno presentate le ragioni alla base del movimento di Op
 
 **Dati prodotti:** Angiolini, A., Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Di Tella, A., … Torello, M. (2019). Riviste OA - UniBo (Version 1.2). Zenodo. http://doi.org/10.5281/zenodo.3344507
 
-**Report**: Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Foschi, A., Franchi, C., ... Spinaci, G. (2019). Conformità all'Open Access delle riviste pubblicate dall'Università di Bologna. Zenodo. ​http://doi.org/10.5281/zenodo.3344777
+**Report**: Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Foschi, A., Franchi, C., ... Spinaci, G. (2019). Conformità all'Open Access delle riviste pubblicate dall'Università di Bologna. Zenodo. ​http://doi.org/10.5281/zenodo.3344898
