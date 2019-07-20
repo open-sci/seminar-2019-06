@@ -25,3 +25,5 @@ In questo seminario verranno presentate le ragioni alla base del movimento di Op
 **Protocollo per la raccolta dei dati:** Barzaghi, S., Cavestri, D., Mangialardo, F., Peroni, S. (2019). Protocollo di Conformità di Riviste Scientifiche all'Open Access. Protocols.io. https://doi.org/10.17504/protocols.io.5aag2ae
 
 **Dati prodotti:** Angiolini, A., Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Di Tella, A., … Torello, M. (2019). Riviste OA - UniBo (Version 1.2). Zenodo. http://doi.org/10.5281/zenodo.3344507
+
+**Report**: Auddino, A., Barzaghi, S., Bernabè, A., Cavestri, D., Foschi, A., Franchi, C., ... Spinaci, G. (2019). Conformità all'Open Access delle riviste pubblicate dall'Università di Bologna. Zenodo. ​http://doi.org/10.5281/zenodo.3344777
